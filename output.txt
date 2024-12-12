@@ -1,0 +1,168 @@
+[1,0]<stdout>:Configuration:
+[1,0]<stdout>:MPI splits (X,Y,Z): 2,5,5
+[1,0]<stdout>:OMP splits (X,Y,Z): 1,1,1
+[1,0]<stdout>:Threads per MPI process: 1
+[1,3]<stdout>:Rank 3 on node ubuntu: Thread 0/1
+[1,33]<stdout>:Rank 33 on node ubuntu: Thread 0/1
+[1,49]<stdout>:Rank 49 on node ubuntu: Thread 0/1
+[1,9]<stdout>:Rank 9 on node ubuntu: Thread 0/1
+[1,13]<stdout>:Rank 13 on node ubuntu: Thread 0/1
+[1,43]<stdout>:Rank 43 on node ubuntu: Thread 0/1
+[1,23]<stdout>:Rank 23 on node ubuntu: Thread 0/1
+[1,37]<stdout>:Rank 37 on node ubuntu: Thread 0/1
+[1,39]<stdout>:Rank 39 on node ubuntu: Thread 0/1
+[1,2]<stdout>:Rank 2 on node ubuntu: Thread 0/1
+[1,11]<stdout>:Rank 11 on node ubuntu: Thread 0/1
+[1,1]<stdout>:Rank 1 on node ubuntu: Thread 0/1
+[1,45]<stdout>:Rank 45 on node ubuntu: Thread 0/1
+[1,47]<stdout>:Rank 47 on node ubuntu: Thread 0/1
+[1,21]<stdout>:Rank 21 on node ubuntu: Thread 0/1
+[1,6]<stdout>:Rank 6 on node ubuntu: Thread 0/1
+[1,25]<stdout>:Rank 25 on node ubuntu: Thread 0/1
+[1,31]<stdout>:Rank 31 on node ubuntu: Thread 0/1
+[1,4]<stdout>:Rank 4 on node ubuntu: Thread 0/1
+[1,41]<stdout>:Rank 41 on node ubuntu: Thread 0/1
+[1,34]<stdout>:Rank 34 on node ubuntu: Thread 0/1
+[1,5]<stdout>:Rank 5 on node ubuntu: Thread 0/1
+[1,46]<stdout>:Rank 46 on node ubuntu: Thread 0/1
+[1,7]<stdout>:Rank 7 on node ubuntu: Thread 0/1
+[1,48]<stdout>:Rank 48 on node ubuntu: Thread 0/1
+[1,27]<stdout>:Rank 27 on node ubuntu: Thread 0/1
+[1,18]<stdout>:Rank 18 on node ubuntu: Thread 0/1
+[1,29]<stdout>:Rank 29 on node ubuntu: Thread 0/1
+[1,22]<stdout>:Rank 22 on node ubuntu: Thread 0/1
+[1,35]<stdout>:Rank 35 on node ubuntu: Thread 0/1
+[1,28]<stdout>:Rank 28 on node ubuntu: Thread 0/1
+[1,19]<stdout>:Rank 19 on node ubuntu: Thread 0/1
+[1,30]<stdout>:Rank 30 on node ubuntu: Thread 0/1
+[1,15]<stdout>:Rank 15 on node ubuntu: Thread 0/1
+[1,36]<stdout>:Rank 36 on node ubuntu: Thread 0/1
+[1,17]<stdout>:Rank 17 on node ubuntu: Thread 0/1
+[1,38]<stdout>:Rank 38 on node ubuntu: Thread 0/1
+[1,14]<stdout>:Rank 14 on node ubuntu: Thread 0/1
+[1,20]<stdout>:Rank 20 on node ubuntu: Thread 0/1
+[1,8]<stdout>:Rank 8 on node ubuntu: Thread 0/1
+[1,10]<stdout>:Rank 10 on node ubuntu: Thread 0/1
+[1,12]<stdout>:Rank 12 on node ubuntu: Thread 0/1
+[1,44]<stdout>:Rank 44 on node ubuntu: Thread 0/1
+[1,26]<stdout>:Rank 26 on node ubuntu: Thread 0/1
+[1,16]<stdout>:Rank 16 on node ubuntu: Thread 0/1
+[1,24]<stdout>:Rank 24 on node ubuntu: Thread 0/1
+[1,40]<stdout>:Rank 40 on node ubuntu: Thread 0/1
+[1,42]<stdout>:Rank 42 on node ubuntu: Thread 0/1
+[1,0]<stdout>:Global Error: 0.098016
+[1,0]<stdout>:Runtime: 31.680081 seconds
+[1,0]<stdout>:Rank 0 on node ubuntu: Thread 0/1
+[1,32]<stdout>:Rank 32 on node ubuntu: Thread 0/1
+[1,0]<stdout>:Configuration:
+[1,0]<stdout>:MPI splits (X,Y,Z): 2,5,1
+[1,0]<stdout>:OMP splits (X,Y,Z): 1,1,5
+[1,0]<stdout>:Threads per MPI process: 5
+[1,7]<stdout>:Rank 7 on node ubuntu: Thread 2/5
+[1,7]<stdout>:Rank 7 on node ubuntu: Thread 3/5
+[1,7]<stdout>:Rank 7 on node ubuntu: Thread 0/5
+[1,7]<stdout>:Rank 7 on node ubuntu: Thread 1/5
+[1,7]<stdout>:Rank 7 on node ubuntu: Thread 4/5
+[1,6]<stdout>:Rank 6 on node ubuntu: Thread 3/5
+[1,6]<stdout>:Rank 6 on node ubuntu: Thread 2/5
+[1,6]<stdout>:Rank 6 on node ubuntu: Thread 1/5
+[1,6]<stdout>:Rank 6 on node ubuntu: Thread 4/5
+[1,6]<stdout>:Rank 6 on node ubuntu: Thread 0/5
+[1,5]<stdout>:Rank 5 on node ubuntu: Thread 1/5
+[1,5]<stdout>:Rank 5 on node ubuntu: Thread 2/5
+[1,5]<stdout>:Rank 5 on node ubuntu: Thread 4/5
+[1,5]<stdout>:Rank 5 on node ubuntu: Thread 3/5
+[1,5]<stdout>:Rank 5 on node ubuntu: Thread 0/5
+[1,8]<stdout>:Rank 8 on node ubuntu: Thread 3/5
+[1,8]<stdout>:Rank 8 on node ubuntu: Thread 0/5
+[1,8]<stdout>:Rank 8 on node ubuntu: Thread 2/5
+[1,8]<stdout>:Rank 8 on node ubuntu: Thread 1/5
+[1,9]<stdout>:Rank 9 on node ubuntu: Thread 4/5
+[1,9]<stdout>:Rank 9 on node ubuntu: Thread 2/5
+[1,9]<stdout>:Rank 9 on node ubuntu: Thread 1/5
+[1,9]<stdout>:Rank 9 on node ubuntu: Thread 3/5
+[1,9]<stdout>:Rank 9 on node ubuntu: Thread 0/5
+[1,8]<stdout>:Rank 8 on node ubuntu: Thread 4/5
+[1,1]<stdout>:Rank 1 on node ubuntu: Thread 4/5
+[1,1]<stdout>:Rank 1 on node ubuntu: Thread 1/5
+[1,1]<stdout>:Rank 1 on node ubuntu: Thread 3/5
+[1,1]<stdout>:Rank 1 on node ubuntu: Thread 2/5
+[1,1]<stdout>:Rank 1 on node ubuntu: Thread 0/5
+[1,2]<stdout>:Rank 2 on node ubuntu: Thread 1/5
+[1,2]<stdout>:Rank 2 on node ubuntu: Thread 3/5
+[1,2]<stdout>:Rank 2 on node ubuntu: Thread 2/5
+[1,3]<stdout>:Rank 3 on node ubuntu: Thread 4/5
+[1,3]<stdout>:Rank 3 on node ubuntu: Thread 3/5
+[1,3]<stdout>:Rank 3 on node ubuntu: Thread 1/5
+[1,3]<stdout>:Rank 3 on node ubuntu: Thread 0/5
+[1,3]<stdout>:Rank 3 on node ubuntu: Thread 2/5
+[1,4]<stdout>:Rank 4 on node ubuntu: Thread 3/5
+[1,4]<stdout>:Rank 4 on node ubuntu: Thread 1/5
+[1,4]<stdout>:Rank 4 on node ubuntu: Thread 4/5
+[1,4]<stdout>:Rank 4 on node ubuntu: Thread 2/5
+[1,0]<stdout>:Global Error: 0.020652
+[1,0]<stdout>:Runtime: 4.002981 seconds
+[1,0]<stdout>:Rank 0 on node ubuntu: Thread 1/5
+[1,0]<stdout>:Rank 0 on node ubuntu: Thread 4/5
+[1,0]<stdout>:Rank 0 on node ubuntu: Thread 0/5
+[1,0]<stdout>:Rank 0 on node ubuntu: Thread 3/5
+[1,0]<stdout>:Rank 0 on node ubuntu: Thread 2/5
+[1,2]<stdout>:Rank 2 on node ubuntu: Thread 0/5
+[1,2]<stdout>:Rank 2 on node ubuntu: Thread 4/5
+[1,4]<stdout>:Rank 4 on node ubuntu: Thread 0/5
+[1,0]<stdout>:Configuration:
+[1,0]<stdout>:MPI splits (X,Y,Z): 2,1,1
+[1,0]<stdout>:OMP splits (X,Y,Z): 1,5,5
+[1,0]<stdout>:Threads per MPI process: 25
+[1,1]<stdout>:Rank 1 on node ubuntu: Thread 12/25
+[1,1]<stdout>:Rank 1 on node ubuntu: Thread 9/25
+[1,1]<stdout>:Rank 1 on node ubuntu: Thread 13/25
+[1,1]<stdout>:Rank 1 on node ubuntu: Thread 15/25
+[1,1]<stdout>:Rank 1 on node ubuntu: Thread 21/25
+[1,1]<stdout>:Rank 1 on node ubuntu: Thread 6/25
+[1,1]<stdout>:Rank 1 on node ubuntu: Thread 23/25
+[1,1]<stdout>:Rank 1 on node ubuntu: Thread 5/25
+[1,1]<stdout>:Rank 1 on node ubuntu: Thread 11/25
+[1,1]<stdout>:Rank 1 on node ubuntu: Thread 19/25
+[1,1]<stdout>:Rank 1 on node ubuntu: Thread 10/25
+[1,1]<stdout>:Rank 1 on node ubuntu: Thread 17/25
+[1,1]<stdout>:Rank 1 on node ubuntu: Thread 16/25
+[1,1]<stdout>:Rank 1 on node ubuntu: Thread 3/25
+[1,0]<stdout>:Global Error: 0.004351
+[1,0]<stdout>:Runtime: 1.367595 seconds
+[1,0]<stdout>:Rank 0 on node ubuntu: Thread 20/25
+[1,1]<stdout>:Rank 1 on node ubuntu: Thread 8/25
+[1,1]<stdout>:Rank 1 on node ubuntu: Thread 7/25
+[1,1]<stdout>:Rank 1 on node ubuntu: Thread 18/25
+[1,1]<stdout>:Rank 1 on node ubuntu: Thread 22/25
+[1,1]<stdout>:Rank 1 on node ubuntu: Thread 0/25
+[1,1]<stdout>:Rank 1 on node ubuntu: Thread 20/25
+[1,0]<stdout>:Rank 0 on node ubuntu: Thread 18/25
+[1,0]<stdout>:Rank 0 on node ubuntu: Thread 17/25
+[1,0]<stdout>:Rank 0 on node ubuntu: Thread 6/25
+[1,0]<stdout>:Rank 0 on node ubuntu: Thread 14/25
+[1,0]<stdout>:Rank 0 on node ubuntu: Thread 5/25
+[1,0]<stdout>:Rank 0 on node ubuntu: Thread 9/25
+[1,0]<stdout>:Rank 0 on node ubuntu: Thread 15/25
+[1,0]<stdout>:Rank 0 on node ubuntu: Thread 23/25
+[1,0]<stdout>:Rank 0 on node ubuntu: Thread 3/25
+[1,0]<stdout>:Rank 0 on node ubuntu: Thread 11/25
+[1,0]<stdout>:Rank 0 on node ubuntu: Thread 7/25
+[1,0]<stdout>:Rank 0 on node ubuntu: Thread 13/25
+[1,1]<stdout>:Rank 1 on node ubuntu: Thread 4/25
+[1,1]<stdout>:Rank 1 on node ubuntu: Thread 2/25
+[1,1]<stdout>:Rank 1 on node ubuntu: Thread 14/25
+[1,1]<stdout>:Rank 1 on node ubuntu: Thread 24/25
+[1,1]<stdout>:Rank 1 on node ubuntu: Thread 1/25
+[1,0]<stdout>:Rank 0 on node ubuntu: Thread 19/25
+[1,0]<stdout>:Rank 0 on node ubuntu: Thread 21/25
+[1,0]<stdout>:Rank 0 on node ubuntu: Thread 2/25
+[1,0]<stdout>:Rank 0 on node ubuntu: Thread 4/25
+[1,0]<stdout>:Rank 0 on node ubuntu: Thread 22/25
+[1,0]<stdout>:Rank 0 on node ubuntu: Thread 16/25
+[1,0]<stdout>:Rank 0 on node ubuntu: Thread 1/25
+[1,0]<stdout>:Rank 0 on node ubuntu: Thread 10/25
+[1,0]<stdout>:Rank 0 on node ubuntu: Thread 8/25
+[1,0]<stdout>:Rank 0 on node ubuntu: Thread 24/25
+[1,0]<stdout>:Rank 0 on node ubuntu: Thread 12/25
+[1,0]<stdout>:Rank 0 on node ubuntu: Thread 0/25
